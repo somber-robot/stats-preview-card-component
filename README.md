@@ -5,4 +5,4 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ![](./screenshot-desktop.png)
 ![](./screenshot-mobile.png)
 
-Live Site URL: [Site Review Card Component](https://your-live-site-url.com)
+Live Site URL: [Site Review Card Component](https://somber-robot.github.io/stats-preview-card-component)
